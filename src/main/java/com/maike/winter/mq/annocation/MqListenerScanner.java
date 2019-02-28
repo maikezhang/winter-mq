@@ -9,7 +9,7 @@ import org.springframework.beans.factory.config.BeanPostProcessor;
 import java.util.regex.Pattern;
 
 /**
- * Created by renxianlong on 16/8/17.
+ * Created by maikezhang on 16/8/17.
  */
 public class MqListenerScanner implements BeanPostProcessor{
 

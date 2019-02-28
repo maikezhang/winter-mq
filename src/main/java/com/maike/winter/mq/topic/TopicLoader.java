@@ -1,7 +1,7 @@
 package com.maike.winter.mq.topic;
 
 /**
- * Created by renxianlong on 16/10/19.
+ * Created by maikezhang on 16/10/19.
  */
 public class TopicLoader {
     private static TopicLoader instance = new TopicLoader();

@@ -13,7 +13,7 @@ import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by renxianlong on 16/4/8.
+ * Created by maikezhang on 16/4/8.
  */
 public class TopicHandlerManager {
     private static final Logger LOGGER = LoggerFactory.getLogger(TopicHandlerManager.class);

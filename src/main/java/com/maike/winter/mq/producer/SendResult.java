@@ -1,7 +1,7 @@
 package com.maike.winter.mq.producer;
 
 /**
- * Created by renxianlong on 16/3/28.
+ * Created by maikezhang on 16/3/28.
  */
 public class SendResult {
     //该消息对应topic

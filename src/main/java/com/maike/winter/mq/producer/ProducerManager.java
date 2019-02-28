@@ -3,7 +3,7 @@ package com.maike.winter.mq.producer;
 import com.maike.winter.mq.rocketmq.producer.RocketMqProducer;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class ProducerManager {
 

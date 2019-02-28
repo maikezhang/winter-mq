@@ -4,7 +4,7 @@ import com.maike.winter.mq.config.MqProducerConfig;
 import com.maike.winter.mq.message.Message;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public interface IProducer {
     void send(Message message);

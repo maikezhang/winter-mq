@@ -4,7 +4,7 @@
 //
 //
 ///**
-// * Created by renxianlong on 16/9/29.
+// * Created by maikezhang on 16/9/29.
 // * 商品相关topic
 // */
 //public class ItemTopic {

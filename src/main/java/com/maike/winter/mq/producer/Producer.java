@@ -7,7 +7,7 @@ import com.maike.winter.mq.message.Message;
 import javax.annotation.Resource;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class Producer extends MqProducerConfig implements IProducer{
     private IProducer delegate;

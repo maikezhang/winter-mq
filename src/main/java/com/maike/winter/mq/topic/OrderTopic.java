@@ -3,7 +3,7 @@ package com.maike.winter.mq.topic;
 import com.maike.winter.mq.topic.body.OrderMessage;
 
 /**
- * Created by renxianlong on 16/9/29.
+ * Created by maikezhang on 16/9/29.
  * 订单相关topic
  */
 public class OrderTopic {

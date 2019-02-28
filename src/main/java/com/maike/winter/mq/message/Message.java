@@ -3,7 +3,7 @@ package com.maike.winter.mq.message;
 import com.maike.winter.mq.topic.Topic;
 
 /**
- * Created by renxianlong on 16/9/29.
+ * Created by maikezhang on 16/9/29.
  */
 public class Message <T> {
     private Topic<T> topic;

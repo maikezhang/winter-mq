@@ -16,9 +16,7 @@ import org.slf4j.LoggerFactory;
 
 import javax.annotation.Resource;
 
-/**
- * Created by renxianlong on 16/3/27.
- */
+
 public class RocketMqProducer implements IProducer{
     public DefaultMQProducer producer;
 

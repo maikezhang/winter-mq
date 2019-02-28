@@ -24,7 +24,7 @@ import java.util.Set;
 import static com.maike.winter.mq.Constant.SUBSCRIBE_ALL;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class RocketMqConsumer implements IConsumer{
 

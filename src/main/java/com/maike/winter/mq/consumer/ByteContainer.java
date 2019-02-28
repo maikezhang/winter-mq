@@ -1,7 +1,7 @@
 package com.maike.winter.mq.consumer;
 
 /**
- * Created by renxianlong on 16/5/9.
+ * Created by maikezhang on 16/5/9.
  */
 public class ByteContainer {
     private byte[] body;

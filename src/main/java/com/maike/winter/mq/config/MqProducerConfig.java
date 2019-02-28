@@ -1,7 +1,7 @@
 package com.maike.winter.mq.config;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class MqProducerConfig extends MqConfig{
     private static final int DEFAULT_SEND_MSG_TIMEOUT = 3000;

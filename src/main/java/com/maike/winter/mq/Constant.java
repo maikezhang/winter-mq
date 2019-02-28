@@ -1,7 +1,7 @@
 package com.maike.winter.mq;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class Constant {
     public static final String SUBSCRIBE_ALL = "*";

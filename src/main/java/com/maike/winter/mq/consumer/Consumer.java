@@ -6,7 +6,7 @@ import com.maike.winter.mq.config.MqConsumerConfig;
 import javax.annotation.Resource;
 
 /**
- * Created by renxianlong on 16/3/28.
+ * Created by maikezhang on 16/3/28.
  */
 public class Consumer extends MqConsumerConfig {
 

@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by renxianlong on 16/3/28.
+ * Created by maikezhang on 16/3/28.
  */
 public class DefaultTopicHandler implements IMessageHandler {
 

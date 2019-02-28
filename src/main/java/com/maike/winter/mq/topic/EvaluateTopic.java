@@ -3,7 +3,7 @@ package com.maike.winter.mq.topic;
 import com.maike.winter.mq.topic.body.EvaluateMessage;
 
 /**
- * Created by renxianlong on 16/9/29.
+ * Created by maikezhang on 16/9/29.
  * 商品相关topic
  */
 public class EvaluateTopic {

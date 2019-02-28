@@ -5,7 +5,7 @@ import com.maike.winter.mq.message.IMessageHandler;
 import java.util.Map;
 
 /**
- * Created by renxianlong on 16/3/27.
+ * Created by maikezhang on 16/3/27.
  */
 public class MqConsumerConfig extends MqConfig {
     //消费组
